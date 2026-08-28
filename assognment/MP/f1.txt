@@ -1,0 +1,7 @@
+first addition
+<<<<<<< HEAD
+hkkkkb
+dhdhdh
+=======
+hkkkkb
+>>>>>>> aed8472 (second  add)
